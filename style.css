@@ -469,6 +469,7 @@ body {
 }
 .card3 {
   width:460px;
+  height:200px;
   background-color: #fff;
     border: 1px solid #e5e5e5;
     border-radius: 8px;
@@ -499,7 +500,7 @@ body {
     grid-template-columns: 1fr 2fr;
     gap: 2rem;
     width:600px;
-    transform : translate(500px ,-508.5px);
+    transform : translate(500px ,-583.5px);
 }
 
 .card2{
@@ -576,7 +577,17 @@ body {
     grid-template-columns: 1fr 2fr;
     gap: 2rem;
     width:600px;
-    transform : translate(500px ,-540px);
+    transform : translate(500px ,-620px);
+}
+
+.container7 {
+  transform : translate(500px,-660px);
+}
+.prj-info {
+  transform : translate(0px , -10px);
+}
+.image-text {
+  transform:translate(45px,-35px);
 }
 
 #preloader {
